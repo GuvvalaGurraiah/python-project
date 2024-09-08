@@ -1,2 +1,2 @@
 # python-project
-python repo
+python repo telugu hub
